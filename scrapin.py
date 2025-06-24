@@ -6,7 +6,7 @@ with open("hotel_knowledge_base.json", "r") as file:
     hotel_data = json.load(file)
 
 # GROQ API details
-GROQ_API_KEY = "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"  # Replace with your actual API key
+GROQ_API_KEY = ""  # Replace with your actual API key
 GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 
 from flask import Flask, request, jsonify, render_template_string
