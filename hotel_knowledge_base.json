@@ -1,0 +1,126 @@
+{
+    "hotel": {
+      "name": "Grand Ocean Resort",
+      "location": "123 Beachside Avenue, Palm Bay, FL",
+      "description": "A luxurious beachfront resort offering stunning ocean views, premium spa services, and world-class dining."
+    },
+    "rooms": [
+      {
+        "type": "Deluxe Ocean View",
+        "price_per_night": 250,
+        "bed": "King-size bed",
+        "features": ["Private balcony", "Mini-bar", "Ocean view", "24/7 Room Service"],
+        "max_guests": 2,
+        "extra_bed_available": false
+      },
+      {
+        "type": "Executive Suite",
+        "price_per_night": 400,
+        "bed": "King-size bed + Sofa Bed",
+        "features": ["Separate living area", "Jacuzzi", "Private terrace", "Exclusive lounge access", "Smart TV"],
+        "max_guests": 4,
+        "extra_bed_available": true
+      },
+      {
+        "type": "Penthouse Suite",
+        "price_per_night": 700,
+        "bed": "California King Bed",
+        "features": ["Panoramic Ocean View", "Private Butler Service", "Infinity Pool Access", "Complimentary Champagne"],
+        "max_guests": 6,
+        "extra_bed_available": true
+      }
+    ],
+    "amenities": {
+      "wifi": "Free high-speed WiFi in all areas",
+      "parking": "Complimentary valet parking",
+      "pool": "Infinity pool with swim-up bar",
+      "gym": "24/7 fitness center with personal trainers",
+      "spa": "Full-service spa with sauna and massages",
+      "business_center": "Meeting rooms and conference facilities",
+      "kids_play_area": "Dedicated indoor play area for kids",
+      "airport_shuttle": "Free airport pickup and drop-off",
+      "pet_friendly": "Pets allowed in designated rooms (extra charge may apply)"
+    },
+    "dining": [
+      {
+        "name": "Sunset Grill",
+        "cuisine": "Seafood & Steakhouse",
+        "hours": "6:00 PM - 11:00 PM",
+        "specials": ["Lobster Night on Fridays", "Wine Tasting Wednesdays"]
+      },
+      {
+        "name": "Ocean Breeze Cafe",
+        "cuisine": "Breakfast & Brunch",
+        "hours": "7:00 AM - 10:30 AM",
+        "specials": ["All-You-Can-Eat Sunday Brunch"]
+      },
+      {
+        "name": "Beachside Bar",
+        "cuisine": "Cocktails & Light Snacks",
+        "hours": "11:00 AM - 12:00 AM",
+        "specials": ["Happy Hour 4:00 PM - 6:00 PM"]
+      }
+    ],
+    "special_offers": [
+      {
+        "name": "Romantic Getaway Package",
+        "description": "Includes a beachfront dinner, spa treatment, and a luxury suite stay.",
+        "validity": "Available till June 2025",
+        "discount": "15% off"
+      },
+      {
+        "name": "Family Fun Package",
+        "description": "Includes kids' play area access, free meals for children under 10, and a guided beach tour.",
+        "validity": "Available all year",
+        "discount": "10% off"
+      }
+    ],
+    "booking_policies": {
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation": "Full refund if canceled 48 hours before check-in. 50% charge if canceled within 24 hours."
+    },
+    "nearby_attractions": [
+      {
+        "name": "Palm Bay Marina",
+        "distance": "2 miles",
+        "description": "Boat rentals, fishing charters, and waterfront dining.",
+        "entry_fee": "Free entry, but activity prices vary."
+      },
+      {
+        "name": "Sunset Beach Boardwalk",
+        "distance": "0.5 miles",
+        "description": "A scenic boardwalk with shops, cafes, and live music.",
+        "entry_fee": "Free"
+      },
+      {
+        "name": "Ocean Wildlife Park",
+        "distance": "5 miles",
+        "description": "A conservation park with dolphin shows, sea turtle exhibits, and snorkeling tours.",
+        "entry_fee": "$25 per person"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What time is check-in and check-out?",
+        "answer": "Check-in is at 3:00 PM, and check-out is at 11:00 AM."
+      },
+      {
+        "question": "Do you offer airport shuttle services?",
+        "answer": "Yes, we provide complimentary airport shuttle services from Palm Bay International Airport."
+      },
+      {
+        "question": "Is breakfast included in the room price?",
+        "answer": "Breakfast is included for Executive Suites and higher. Other rooms can add breakfast for $20 per person."
+      },
+      {
+        "question": "Are pets allowed in the hotel?",
+        "answer": "Yes, we have pet-friendly rooms available for an additional charge."
+      },
+      {
+        "question": "What is the hotel's cancellation policy?",
+        "answer": "Cancellations are free if made 48 hours before check-in. A 50% charge applies if canceled within 24 hours."
+      }
+    ]
+  }
+  
